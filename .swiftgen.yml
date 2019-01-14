@@ -1,0 +1,24 @@
+strings:
+  paths: 
+    - DemoSwiftGen/Resources/en.lproj/DemoSwiftGen.strings
+  templateName: structured-swift4
+  output: DemoSwiftGen/Resources/Strings.swift
+xcassets:
+  paths:
+     - DemoSwiftGen/Resources/DemoSwiftGen.xcassets
+  templateName: swift4
+  output: DemoSwiftGen/Resources/Images.swift
+colors:
+  paths: 
+    - DemoSwiftGen/Resources/Colors.json
+  templateName: swift4
+  output: DemoSwiftGen/Resources/Colors.swift
+fonts:
+  paths:
+    - DemoSwiftGen/Resources/Fonts
+  templateName: swift4
+  output: DemoSwiftGen/Resources/Fonts.swift
+storyboards:
+  - paths: DemoSwiftGen/Storyboards/Base.lproj/Main.storyboard
+    templateName: swift4
+    output: DemoSwiftGen/Resources/StorybardScene.swift

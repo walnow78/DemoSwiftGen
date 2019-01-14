@@ -1,0 +1,13 @@
+// First VC
+"viewController1.title" = "First VC";
+"viewController1.labelText" = "This text was generate with swiftgen";
+"viewController1.showSecondVCButton" = "Go to second VC";
+"viewController1.showModalVCButton" = "Show Modal";
+
+// Second VC
+"viewController2.title" = "Second VC";
+
+// Modal VC
+"modalVC.title" = "Third VC";
+"modalVC.closeButton" = "Close";
+
